@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "al",
+        "request": "launch",
+        "name": "Wiise",
+        "server": "https://businesscentral.dynamics.com/",
+        "tenant": "ea716eb1-7fc6-447a-a4be-042605ec550a",
+        "serverInstance": "sandbox",
+        "sandboxName": "bc",
+        "authentication": "AAD",
+        "breakOnError": true,
+        "launchBrowser": false,
+        "breakOnRecordWrite": false,
+      }
+    ]
+  }
